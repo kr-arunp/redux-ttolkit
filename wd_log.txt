@@ -1,0 +1,39 @@
+[2023-03-04:13:03:02 WD-TabNine INFO] Migrating configuration properties if necessary...
+[2023-03-04:13:03:02 WD-TabNine INFO] starting heartbeat loop for watchdog
+[2023-03-04:13:03:02 WD-TabNine INFO] Migrating configuration properties if necessary...
+[2023-03-04:13:03:02 WD-TabNine INFO] starting heartbeat loop for watchdog
+[2023-03-04:13:03:02 WD-TabNine INFO] terminating because another watchdog is already running.
+[2023-03-04:13:03:02 WD-TabNine INFO] watching new process 22900-TabNine
+[2023-03-04:13:03:10 WD-TabNine INFO] watching new process 23189-TabNine-deep-local
+[2023-03-04:13:03:10 WD-TabNine INFO] stop watching process 22900-TabNine
+[2023-03-04:13:03:18 WD-TabNine INFO] watching new process 24245-TabNine
+[2023-03-04:13:03:18 WD-TabNine INFO] watching new process 24177-TabNine
+[2023-03-04:13:03:18 WD-TabNine INFO] watching new process 24088-TabNine
+[2023-03-04:13:03:18 WD-TabNine INFO] watching new process 23972-TabNine
+[2023-03-04:13:08:30 WD-TabNine INFO] stop watching process 26273-TabNine-deep-local
+[2023-03-04:13:08:30 WD-TabNine INFO] stop watching process 26288-TabNine-deep-local
+[2023-03-04:15:11:16 WD-TabNine INFO] Migrating configuration properties if necessary...
+[2023-03-04:15:11:16 WD-TabNine INFO] starting heartbeat loop for watchdog
+[2023-03-04:15:11:17 WD-TabNine INFO] watching new process 23189-TabNine-deep-local
+[2023-03-04:15:11:17 WD-TabNine INFO] watching new process 24088-TabNine
+[2023-03-04:15:11:17 WD-TabNine INFO] watching new process 24177-TabNine
+[2023-03-04:15:11:17 WD-TabNine INFO] watching new process 23972-TabNine
+[2023-03-04:15:11:17 WD-TabNine INFO] watching new process 24245-TabNine
+[2023-03-04:17:54:21 WD-TabNine INFO] stop watching process 24088-TabNine
+[2023-03-04:17:54:21 WD-TabNine INFO] stop watching process 24177-TabNine
+[2023-03-04:17:54:21 WD-TabNine INFO] stop watching process 23972-TabNine
+[2023-03-04:17:54:21 WD-TabNine INFO] stop watching process 24245-TabNine
+[2023-03-04:17:54:29 WD-TabNine INFO] watching new process 65817-TabNine
+[2023-03-04:17:54:29 WD-TabNine INFO] watching new process 65666-TabNine
+[2023-03-04:17:54:29 WD-TabNine INFO] watching new process 65779-TabNine
+[2023-03-04:17:54:29 WD-TabNine INFO] watching new process 65628-TabNine
+[2023-03-04:17:54:37 WD-TabNine INFO] stop watching process 66235-TabNine-deep-local
+[2023-03-04:18:17:35 WD-TabNine INFO] watching new process 74069-TabNine
+[2023-03-04:18:17:35 WD-TabNine INFO] watching new process 73971-TabNine
+[2023-03-04:18:17:35 WD-TabNine INFO] watching new process 73755-TabNine
+[2023-03-04:18:17:35 WD-TabNine INFO] watching new process 73855-TabNine
+[2023-03-04:18:17:35 WD-TabNine INFO] stop watching process 65817-TabNine
+[2023-03-04:18:17:35 WD-TabNine INFO] stop watching process 65779-TabNine
+[2023-03-04:18:17:35 WD-TabNine INFO] stop watching process 65666-TabNine
+[2023-03-04:18:17:35 WD-TabNine INFO] stop watching process 65628-TabNine
+[2023-03-04:18:17:44 WD-TabNine INFO] stop watching process 74272-TabNine-deep-local

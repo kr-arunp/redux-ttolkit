@@ -1,0 +1,192 @@
+[2023-03-04:13:03:02 TabNine INFO] /home/arunprajapati/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.250/x86_64-unknown-linux-musl/TabNine --client=vscode --no-lsp=true --log-file-path=.jsx,.js-22815 --client-metadata clientVersion=1.74.3 pluginVersion=v3.6.41-alpha.20230227084652 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-remote-name=undefined vscode-extension-kind=1 vscode-theme-name=Monokai Pro (Filter Octagon) vscode-theme-kind=Dark vscode-machine-id=4ba94fc8785f79a41f06c33bfd835db153591c608bb45568e3e84fbb5bac21e2 vscode-is-new-app-install=false vscode-session-id=b081d908-c6bd-4a52-9c3f-61f0e83f4bb91677915179914 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=true vscode-status-customization=unknown vscode-inline-api-enabled=true ide-restart-counter=0
+[2023-03-04:13:03:02 TabNine INFO] Migrating configuration properties if necessary...
+[2023-03-04:13:03:02 TabNine INFO] Initializing watchdog client...
+[2023-03-04:13:03:02 TabNine INFO] Starting watchdog...
+[2023-03-04:13:03:02 TabNine INFO] Starting watchdog...
+[2023-03-04:13:03:02 TabNine INFO] trying to start tabnine version Some("4.4.250")
+[2023-03-04:13:03:02 TabNine INFO] spawning tabnine with args ["/home/arunprajapati/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.250/x86_64-unknown-linux-musl/TabNine", "--client=vscode", "--no-lsp=true", "--log-file-path=.jsx,.js-22815", "--client-metadata", "clientVersion=1.74.3", "pluginVersion=v3.6.41-alpha.20230227084652", "t9-vscode-AutoImportEnabled=true", "t9-vscode-TSAutoImportEnabled=true", "t9-vscode-JSAutoImportEnabled=true", "vscode-telemetry-enabled=true", "vscode-remote=false", "vscode-remote-name=undefined", "vscode-extension-kind=1", "vscode-theme-name=Monokai Pro (Filter Octagon)", "vscode-theme-kind=Dark", "vscode-machine-id=4ba94fc8785f79a41f06c33bfd835db153591c608bb45568e3e84fbb5bac21e2", "vscode-is-new-app-install=false", "vscode-session-id=b081d908-c6bd-4a52-9c3f-61f0e83f4bb91677915179914", "vscode-language=en", "vscode-app-name=Visual Studio Code", "vscode-beta-channel-enabled=true", "vscode-status-customization=unknown", "vscode-inline-api-enabled=true", "ide-restart-counter=0", "--no_bootstrap"]
+[2023-03-04:13:03:02 TabNine INFO] started tabnine process pid 23040 version Some("4.4.250"), desired version was Some("4.4.250") this version is Some("4.4.250")
+[2023-03-04:13:03:02 TabNine INFO] /home/arunprajapati/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.250/x86_64-unknown-linux-musl/TabNine --client=vscode --no-lsp=true --log-file-path=.jsx,.js-22815 --client-metadata clientVersion=1.74.3 pluginVersion=v3.6.41-alpha.20230227084652 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-remote-name=undefined vscode-extension-kind=1 vscode-theme-name=Monokai Pro (Filter Octagon) vscode-theme-kind=Dark vscode-machine-id=4ba94fc8785f79a41f06c33bfd835db153591c608bb45568e3e84fbb5bac21e2 vscode-is-new-app-install=false vscode-session-id=b081d908-c6bd-4a52-9c3f-61f0e83f4bb91677915179914 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=true vscode-status-customization=unknown vscode-inline-api-enabled=true ide-restart-counter=0 --no_bootstrap
+[2023-03-04:13:03:02 TabNine INFO] Initializing watchdog client...
+[2023-03-04:13:03:02 TabNine INFO] LSP disabled
+[2023-03-04:13:03:03 TabNine INFO] Migrating configuration properties if necessary...
+[2023-03-04:13:03:03 TabNine INFO] registering recommender
+[2023-03-04:13:03:03 TabNine INFO] not activating recommendation engine
+[2023-03-04:13:03:03 TabNine INFO] Creating models api singleton...
+[2023-03-04:13:03:03 TabNine ERROR] Failed to create cache directory: File exists (os error 17)
+[2023-03-04:13:03:03 TabNine INFO] Created models api client singleton.
+[2023-03-04:13:03:03 TabNine INFO] current private model is None
+[2023-03-04:13:03:03 TabNine INFO] Waiting for access token to change...
+[2023-03-04:13:03:03 TabNine INFO] using initial model ModelMetadata {
+    model_id: "162640eb4381301da6ff3a6913c806965a2ec6a7d3a6943bec51de1088948c72",
+    upload_time: 2021-05-25T15:38:00+00:00,
+    crc32_over_file_without_headers: "ce94127b",
+    model_size: Small,
+    owned_by_team_id: None,
+    specialized_for_language: None,
+    source_type: None,
+    display_name: None,
+    is_production_ready: true,
+    is_manually_selectable: false,
+}
+[2023-03-04:13:03:03 TabNine INFO] Updating models API access token...
+[2023-03-04:13:03:03 TabNine INFO] lunar settings update thread started (Local(Public) ce94127b)
+[2023-03-04:13:03:03 TabNine INFO] starting default model pre-loader DownloadSettings {
+    api_key: None,
+    meta_data_base_url: "https://api.tabnine.com",
+    model: ModelMetadata {
+        model_id: "162640eb4381301da6ff3a6913c806965a2ec6a7d3a6943bec51de1088948c72",
+        upload_time: 2021-05-25T15:38:00+00:00,
+        crc32_over_file_without_headers: "ce94127b",
+        model_size: Small,
+        owned_by_team_id: None,
+        specialized_for_language: None,
+        source_type: None,
+        display_name: None,
+        is_production_ready: true,
+        is_manually_selectable: false,
+    },
+}
+[2023-03-04:13:03:03 TabNine INFO] Starting private model update thread
+[2023-03-04:13:03:03 TabNine INFO] Checking if private model changed
+[2023-03-04:13:03:03 TabNine INFO] project model override feature is disabled
+[2023-03-04:13:03:03 TabNine INFO] Started model connection config watcher loop.
+[2023-03-04:13:03:03 TabNine INFO] lunar settings update thread started (Remote cloud)
+[2023-03-04:13:03:03 TabNine INFO] lunar settings update thread started (Local(Public) ce94127b)
+[2023-03-04:13:03:03 TabNine ERROR] Failed to get models from cache. Error: No such file or directory (os error 2), Base cache directory: /home/arunprajapati/.config/TabNine/models_api
+[2023-03-04:13:03:03 TabNine INFO] User changed. Refreshing capabilities
+[2023-03-04:13:03:03 TabNine INFO] Refreshing capabilities
+[2023-03-04:13:03:03 TabNine INFO] running command "/home/arunprajapati/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.250/x86_64-unknown-linux-musl/TabNine-deep-local" "--settings" "/home/arunprajapati/.config/TabNine/local.settingsce94127bSmall" "--settings-version" "1" "--log-file-path" ".jsx,.js-22815" "--client" "vscode" "--client-metadata" "clientVersion=1.74.3" "pluginVersion=v3.6.41-alpha.20230227084652" "t9-vscode-AutoImportEnabled=true" "t9-vscode-TSAutoImportEnabled=true" "t9-vscode-JSAutoImportEnabled=true" "vscode-telemetry-enabled=true" "vscode-remote=false" "vscode-remote-name=undefined" "vscode-extension-kind=1" "vscode-theme-name=Monokai Pro (Filter Octagon)" "vscode-theme-kind=Dark" "vscode-machine-id=4ba94fc8785f79a41f06c33bfd835db153591c608bb45568e3e84fbb5bac21e2" "vscode-is-new-app-install=false" "vscode-session-id=b081d908-c6bd-4a52-9c3f-61f0e83f4bb91677915179914" "vscode-language=en" "vscode-app-name=Visual Studio Code" "vscode-beta-channel-enabled=true" "vscode-status-customization=unknown" "vscode-inline-api-enabled=true" "ide-restart-counter=0"
+[2023-03-04:13:03:03 TabNine-deep-local INFO] Migrating configuration properties if necessary...
+[2023-03-04:13:03:03 TabNine-deep-local INFO] parsed settings are Some(Settings { cpu_model: CpuModelSettings { rate_limit_interval_seconds: None, rate_limit_amount: None, enable_power_saving_mode: false }, download: DownloadSettings { api_key: None, meta_data_base_url: "https://api.tabnine.com", model: ModelMetadata { model_id: "162640eb4381301da6ff3a6913c806965a2ec6a7d3a6943bec51de1088948c72", upload_time: 2021-05-25T15:38:00+00:00, crc32_over_file_without_headers: "ce94127b", model_size: Small, owned_by_team_id: None, specialized_for_language: None, source_type: None, display_name: None, is_production_ready: true, is_manually_selectable: false } }, tune: TuneSettings { enable_power_saving_mode: false, override_beams: None, override_context_length: None }, run: RunSettings { is_enabled: true, omit_prefix_suggestions: false, line_suggestions: false } })
+[2023-03-04:13:03:03 TabNine-deep-local INFO] local_lock_path "/home/arunprajapati/.config/TabNine/4.4.250/TabNine-deep-local.lockce94127b"
+[2023-03-04:13:03:03 TabNine-deep-local INFO] using settings Settings { cpu_model: CpuModelSettings { rate_limit_interval_seconds: None, rate_limit_amount: None, enable_power_saving_mode: false }, download: DownloadSettings { api_key: None, meta_data_base_url: "https://api.tabnine.com", model: ModelMetadata { model_id: "162640eb4381301da6ff3a6913c806965a2ec6a7d3a6943bec51de1088948c72", upload_time: 2021-05-25T15:38:00+00:00, crc32_over_file_without_headers: "ce94127b", model_size: Small, owned_by_team_id: None, specialized_for_language: None, source_type: None, display_name: None, is_production_ready: true, is_manually_selectable: false } }, tune: TuneSettings { enable_power_saving_mode: false, override_beams: None, override_context_length: None }, run: RunSettings { is_enabled: true, omit_prefix_suggestions: false, line_suggestions: false } }
+[2023-03-04:13:03:03 TabNine-deep-local INFO] Initializing watchdog client...
+[2023-03-04:13:03:03 TabNine INFO] Started.
+[2023-03-04:13:03:03 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:34128
+[2023-03-04:13:03:03 TabNine-deep-local INFO] TabNine Local communication thread started.
+[2023-03-04:13:03:03 TabNine-deep-local INFO] Loading model...
+[2023-03-04:13:03:03 TabNine-deep-local ERROR] Failed to read header: Magic version mismatch
+[2023-03-04:13:03:03 TabNine-deep-local INFO] No language mapping provided - falling back to default
+[2023-03-04:13:03:03 TabNine INFO] Successfully updated Local(Public) ce94127b lunar settings
+[2023-03-04:13:03:03 TabNine INFO] initializing pro advanced completions capabilities subscriber...
+[2023-03-04:13:03:03 TabNine INFO] pro advanced completions capabilities subscriber detected a change
+[2023-03-04:13:03:03 TabNine INFO] Successfully updated Local(Public) ce94127b lunar settings
+[2023-03-04:13:03:03 TabNine INFO] Started config server at 127.0.0.1:1123.
+[2023-03-04:13:03:03 TabNine INFO] Successfully updated Local(Public) ce94127b lunar settings
+[2023-03-04:13:03:03 TabNine INFO] child exited with status exit status: 0
+[2023-03-04:13:03:03 TabNine INFO] Hub site is: https://hub.tabnine.com/v9/?tabnineUrl=http://127.0.0.1:1123/sec-lizxqngqmbafwpzcfdjj
+[2023-03-04:13:03:04 TabNine INFO] current version is Some(Version { major: 4, minor: 4, patch: 250, pre: [], build: [] }), spawned version is Some(Version { major: 4, minor: 4, patch: 250, pre: [], build: [] }), remote version is Version { major: 4, minor: 4, patch: 250, pre: [], build: [] }
+[2023-03-04:13:03:04 TabNine INFO] don't need to upgrade
+[2023-03-04:13:03:04 TabNine INFO] Updated models API access token of user: None
+[2023-03-04:13:03:04 TabNine INFO] New active private model: None
+[2023-03-04:13:03:04 TabNine INFO] Waiting for access token to change...
+[2023-03-04:13:03:04 TabNine INFO] sleeping for maximum of 3600s
+[2023-03-04:13:03:04 TabNine INFO] Checking if private model changed
+[2023-03-04:13:03:04 TabNine INFO] New active private model: None
+[2023-03-04:13:03:04 TabNine INFO] sleeping for maximum of 3600s
+[2023-03-04:13:03:04 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:34138
+[2023-03-04:13:03:04 TabNine INFO] Updating models API access token...
+[2023-03-04:13:03:04 TabNine INFO] User changed. Refreshing capabilities
+[2023-03-04:13:03:04 TabNine INFO] Refreshing capabilities
+[2023-03-04:13:03:04 TabNine INFO] Checking if private model changed
+[2023-03-04:13:03:04 TabNine ERROR] Failed to get models from cache. Error: No such file or directory (os error 2), Base cache directory: /home/arunprajapati/.config/TabNine/models_api
+[2023-03-04:13:03:05 TabNine-deep-local INFO] Done loading model (took 1.77 seconds).
+[2023-03-04:13:03:05 TabNine INFO] setting default model analytics
+[2023-03-04:13:03:05 TabNine-deep-local INFO] Selected 1 beams.
+[2023-03-04:13:03:05 TabNine-deep-local INFO] Selected context length of 128.
+[2023-03-04:13:03:05 TabNine INFO] Updated models API access token of user: Some("Arun Kumar")
+[2023-03-04:13:03:05 TabNine INFO] New active private model: None
+[2023-03-04:13:03:05 TabNine INFO] sleeping for maximum of 3600s
+[2023-03-04:13:03:05 TabNine INFO] Waiting for access token to change...
+[2023-03-04:13:03:06 TabNine INFO] pro advanced completions capabilities subscriber detected a change
+[2023-03-04:13:03:06 TabNine INFO] Successfully updated Local(Public) ce94127b lunar settings
+[2023-03-04:13:03:06 TabNine INFO] Successfully updated Local(Public) ce94127b lunar settings
+[2023-03-04:13:03:06 TabNine INFO] Successfully updated Local(Public) ce94127b lunar settings
+[2023-03-04:13:03:06 TabNine INFO] Sending finished message from Input
+[2023-03-04:13:03:06 TabNine INFO] Sending finished message from ChannelWorker("default")
+[2023-03-04:13:03:06 TabNine INFO] Sending finished message from Output
+[2023-03-04:13:03:06 TabNine INFO] exiting....
+[2023-03-04:13:03:07 TabNine INFO] child process 23040 exited with status exit status: 0...
+[2023-03-04:13:03:13 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:46426
+[2023-03-04:13:03:15 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:46432
+[2023-03-04:13:03:15 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:46434
+[2023-03-04:13:03:15 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:46438
+[2023-03-04:13:08:21 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:36384
+[2023-03-04:13:08:21 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:36388
+[2023-03-04:13:08:24 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:11:05 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:11:10 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:11:15 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:11:17 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:11:24 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:11:24 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:11:57 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:12:42 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:14:53 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:15:15 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:15:29 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:16:15 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:17:03 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:31:01 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:32:37 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:33:19 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:33:29 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:35:00 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:35:10 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:35:15 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:35:18 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:35:25 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:35:50 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:35:53 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:35:58 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:36:03 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:36:07 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:36:12 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:51:01 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:51:01 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:52:47 TabNine-deep-local ERROR] Error running query: Error(OutOfRange, State { next_error: None, backtrace: InternalBacktrace { backtrace: None } })
+[2023-03-04:13:53:43 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:53:43 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:53:44 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:53:44 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:53:53 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:55:52 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:55:58 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:57:09 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:57:13 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:58:19 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:58:25 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:13:58:46 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:13:59:01 TabNine-deep-local INFO] Returning no lunar completions because newline is likely.
+[2023-03-04:14:20:56 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:14:40:11 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:01:59 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:03:02 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:03:03 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:03:05 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:03:25 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:03:26 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:03:33 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:03:45 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:04:00 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:04:01 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:04:01 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:15:13:25 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:17:51:29 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:17:54:26 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:48004
+[2023-03-04:17:54:28 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:48008
+[2023-03-04:17:58:05 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:43716
+[2023-03-04:17:58:05 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:43718
+[2023-03-04:18:09:51 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:18:09:52 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:18:09:52 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:18:10:20 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:18:10:25 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:18:10:27 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:18:10:28 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
+[2023-03-04:18:17:33 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:59222
+[2023-03-04:18:17:34 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:59236
+[2023-03-04:18:19:37 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:57104
+[2023-03-04:18:22:02 TabNine-deep-local INFO] Got new local client connection 127.0.0.1:33182
+[2023-03-04:18:24:26 TabNine-deep-local WARN] An update was dropped because we couldn't acquire the lock.
